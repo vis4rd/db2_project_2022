@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\DB2_Project_App\DB2_Project_App\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DB2_Project_App\DB2_Project_App\bin\Debug\DB2_Project_App.exe
+C:\Users\Administrator\Desktop\DB2_Project_App\DB2_Project_App\bin\Debug\DB2_Project_App.pdb
+C:\Users\Administrator\Desktop\DB2_Project_App\DB2_Project_App\obj\Debug\DB2_Project_App.exe
+C:\Users\Administrator\Desktop\DB2_Project_App\DB2_Project_App\obj\Debug\DB2_Project_App.pdb
+C:\Users\Administrator\Desktop\DB2_Project_App\DB2_Project_App\bin\Debug\SqlClassLibrary.dll
+C:\Users\Administrator\Desktop\DB2_Project_App\DB2_Project_App\bin\Debug\SqlClassLibrary.pdb
